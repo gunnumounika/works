@@ -1,0 +1,159 @@
+body{
+    font-family:'Montserrat';
+    text-align:center;
+    padding:
+} 
+/* h1,h2,h3,h4,h5,h6{
+    font-family:'Montserrat-Bold';
+} */
+
+
+h3{
+    font-size:1.5rem;
+}
+
+.big-heading{
+    font-family:"Montserrat-bold";
+    /* font-size:50px; */
+    line-height:1.5;
+    font-size:60px;
+    color:white;
+}
+p{
+    color:#8f8f8f;
+}
+.container-fluid{
+    padding:7% 15%;
+    /* margin:30px; */
+}
+
+.white-section{
+    background-color:#ef8172;
+    color:#fff;
+}
+
+.coloured-section{
+    background-color:white;
+}
+#title{
+    
+    padding:3%;
+}
+#title.container-fluid{
+   
+    padding-top:5%;
+    padding-bottom:9%;
+}
+/* navabar styling */
+.navbar{
+    margin-bottom:2%;
+}
+.navbar-brand{
+ 
+    font-size:2rem;
+    font-weight:bold;
+}
+.nav-item{
+    padding:0 18px;
+}
+.download-button{
+    margin:5% 3% 5% 0%;
+}
+
+.row{
+    padding:5px;
+}
+.title-image{
+    width:40%;
+    transform:rotate(25deg);
+    position:absolute;
+    right:30%;
+    
+}
+
+/* Features Section */
+.features{
+   
+    position:relative;
+    
+}
+.feature-box{
+    text-align:center;
+    padding:5%;
+}
+
+.symbol{
+    color:#ef8172;
+    margin-bottom:5%;
+}
+.symbol:hover{
+    color: #ff4c68;
+}
+
+/* Trstimonials section */
+#testimonials{
+    
+  
+    text-align:center;
+   
+}
+
+.Testimonial-text{
+    font-size:3.5rem;
+    line-height:1.5;
+    padding:7% 15%;
+    padding-bottom:2px;
+}
+.testimonial-image{
+    width:15%;
+    border-radius:200%;
+   
+    text-align:center;
+    
+}
+#press{
+ 
+    padding-bottom:5%;
+    padding-top:3%;
+    position:5%;
+    text-align:center;
+}
+.press-logo{
+    width:15%;
+    margin:20px 20px 50px;
+    
+}
+
+
+/* Pricing Section */
+#pricing{
+    padding:100px;
+    text-align:center;
+    
+}
+.pricing-column{
+    padding:3% 2%;
+}
+.pricing-text{
+    font-size:3.5rem;
+    line-height:1.5;
+}
+
+/* Middle Section */
+#middle-section{
+
+    padding:7% 15%;
+    text-align:center;
+}
+
+
+/* Tail Section */
+#footer{
+
+    text-align:center;
+    padding:7% 15%;
+}
+.social-icons{
+    margin:3% 2%;
+}
+
